@@ -33,3 +33,17 @@ header {
 h2 {
     font-size: 30px;
 }
+
+.alignment {
+    text-align: justify; 
+    margin-left: 20%; 
+    margin-right: 20%;
+}
+
+.connection {
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    
+}
+
